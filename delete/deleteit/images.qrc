@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/images/if_whatsapp_395429.svg</file>
+        <file>ui/images/Screenshot_2018-04-12_10-09-05.png</file>
+        <file>ui/images/Screenshot_2018-04-12_10-09-25.png</file>
+        <file>ui/images/Screenshot_2018-04-12_10-09-47.png</file>
+        <file>ui/images/nxt.svg</file>
+        <file>ui/images/prev.svg</file>
+        <file>ui/images/if_Cancel_1493282.svg</file>
+    </qresource>
+</RCC>
